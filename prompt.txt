@@ -1,0 +1,11 @@
+I want to build a simple 2D platformer game in the browser using Kaboom.js. 
+Please create a minimal project setup with the following:
+
+1. An `index.html` file that loads Kaboom.js and a `main.js` script.
+2. A `main.js` file that:
+   - Initializes Kaboom.js.
+   - Creates a player character (use a simple rectangle or built-in sprite if available).
+   - Creates ground so the player doesn’t fall.
+   - Allows the player to move left and right with the arrow keys.
+   - Allows the player to jump with the spacebar.
+   - Includes gravity so the player falls down if not standing on the ground.
