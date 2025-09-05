@@ -1,4 +1,4 @@
-// Initialize Kaboom.js
+// Initialize Kaboom.js - new comment
 kaboom({
     canvas: document.getElementById("kaboom-canvas"),
     width: 1000,
